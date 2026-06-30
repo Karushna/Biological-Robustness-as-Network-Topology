@@ -1,13 +1,12 @@
 # MOONSHOT RESEARCH PROPOSAL
-## FINAL WINNING VERSION - Ready for Submission
 
 ---
 
 # Biological Robustness as Network Topology: Why Life's Strength Is Also Its Vulnerability, and How to Redesign Intervention Strategies
 
-**Authors:** [Your Name]  
-**Institution:** [Your Institution]  
-**Date:** June 2026  
+**Authors:** Karushna Jeyakumar 
+**Institution:** University of Moratuwa
+**Date:** June 30, 2026  
 **Submission to:** Moonshot Hackathon - Zero to One Ideas  
 **Status:** Complete with Multimedia, Credible Sources, and Feasibility Assessment
 
@@ -884,31 +883,5 @@ This is not incremental improvement. This is **paradigm shift**.
 
 ---
 
-## APPENDIX: SUBMISSION CHECKLIST
-
-**Files to Prepare:**
-
-- [ ] This proposal (PDF format, 15+ pages)
-- [ ] Presentation slides (5-7 slides with diagrams)
-- [ ] Python notebook (network analysis code)
-- [ ] Figures (4+ high-resolution images)
-- [ ] Video links document (5 supporting videos with timestamps)
-- [ ] GitHub repository (code + README)
-- [ ] 3-5 minute vision video (optional but recommended)
-
-**Submission Platform:**
-https://moonshot-aethra.devpost.com/
-
-**Deadline:** Jun 30, 2026 @ 5:00 PM IST
-
----
-
-**Word Count: ~12,000 words**  
-**Status: READY FOR SUBMISSION**  
-**Expected Outcome: WINNING SUBMISSION** 🏆
-
----
-
 *This research proposal represents original scholarship combining network science, systems biology, and clinical medicine. All citations are linked to credible peer-reviewed sources. All images, diagrams, and videos are credited to original creators.*
 
-*For questions or clarifications, contact: [Your Email]*
